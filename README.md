@@ -8,7 +8,7 @@ Blender-inspired workflow · Object & Edit Mode · Real-time OpenGL rendering ·
 ![License](https://img.shields.io/badge/License-MIT-green)
 [![Stars](https://img.shields.io/github/stars/Zypher0903/PixelForge3D?style=social)](https://github.com/Zypher0903/PixelForge3D/stargazers)
 
-https://github.com/user-attachments/assets/your-future-gif-here.gif
+
 
 > **Warning** Still adding screenshots & demo GIFs – they’re coming in the next 24h!
 
